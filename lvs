@@ -26,7 +26,7 @@
 <channels>
 </channels><channel>  
 <item>
-<title>[B][COLOR yellow]•Diogo nogueira [COLOR lime] ( 14/06 - às 12hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
+<name>[B][COLOR yellow]•Diogo nogueira [COLOR lime] ( 14/06 - às 12hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 <utube>DWr4q5vAnT4</utube>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
@@ -37,7 +37,7 @@
  <channels>
 </channels><channel> 
 <item>
-<title>[B][COLOR yellow]•Jads & Jadson [COLOR lime] ( 14/06 - às 13hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
+<name>[B][COLOR yellow]•Jads & Jadson [COLOR lime] ( 14/06 - às 13hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 <utube>RfTbsi1YIcg</utube>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
@@ -48,7 +48,7 @@
 <channels>
 </channels><channel> 
 <item>
-<title>[B][COLOR yellow]•Sorriso Maroto [COLOR lime] ( 14/06 - às 14hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
+<name>[B][COLOR yellow]•Sorriso Maroto [COLOR lime] ( 14/06 - às 14hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 <utube>qF95Pn-DJW4</utube>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
@@ -59,7 +59,7 @@
  <channels>
 </channels><channel> 
  <item>
-<title>[B][COLOR yellow]•Chiclete com Banana [COLOR lime] ( 14/06 - às 14hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
+<name>[B][COLOR yellow]•Chiclete com Banana [COLOR lime] ( 14/06 - às 14hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 <utube>SkIUWroNAMM</utube>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
@@ -70,7 +70,7 @@
  <channels>
 </channels><channel> 
  <item>
-<title>[B][COLOR yellow]•Martinho da Vila [COLOR lime] ( 14/06 - às 15hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
+<name>[B][COLOR yellow]•Martinho da Vila [COLOR lime] ( 14/06 - às 15hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 <utube>rp_Fclt7fQU</utube>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
@@ -81,7 +81,7 @@
  <channels>
 </channels><channel> 
  <item>
-<title>[B][COLOR yellow]•Live das Patroas (Marília Mendonça e Maiara e Maraisa) [COLOR lime] ( 14/06 - às 17hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
+<name>[B][COLOR yellow]•Live das Patroas (Marília Mendonça e Maiara e Maraisa) [COLOR lime] ( 14/06 - às 17hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 <utube>icjiKQ9z-FE</utube>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
@@ -92,8 +92,7 @@
 <channels>
 </channels><channel> 
  <item>
-<title>[B][COLOR yellow]•Forró Real [COLOR lime] ( 14/06 - às 17hrs ) [COLOR white] PIKACHU [/COLOR][/B]</title>
-<utube>sGMh4RADv34</utube>
+<name>[B][COLOR yellow]•Forró Real [COLOR lime] ( 14/06 - às 17hrs ) [COLOR white] PIKACHU [/COLOR][/B]</name>
 1  <thumbnail>https://tinyurl.com/yb4kjgga</thumbnail>
 1	<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!![/COLOR]</genre>
 1	<fanart>https://i.ytimg.com/vi/sGMh4RADv34/maxresdefault.jpg?v=5ee0210c</fanart>
