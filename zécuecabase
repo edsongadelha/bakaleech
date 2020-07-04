@@ -3,7 +3,7 @@
 &#65279;<!--xml version="1.0" encoding="UTF-8" standalone="yes"?-->
  
 <channels>
-    <channels_info>https://tinyurl.com/yadt8gqq
+    <channels_info>
       <title>[B][I][COLOR yellow]PIKACHU  ENTRETENIMENTOS[COLOR yellow][B][I]</title>
     <genre>[I][B][COLOR blue]Grupo Telegram:[/B][/I][/COLOR][B][I][COLOR white][ tinyurl.com/grupopikachu ][/I][/B][/COLOR][B][I][COLOR yellow] | [COLOR blue]channel Telegram:[/B][/I][/COLOR][B][I][COLOR white][ t.me/addonpikachu][/B][/I][/COLOR][B][I][COLOR lime] visite-nos No Telegram !!![/B][/COLOR][/I]</genre>
       <description>[COLOR green][B]ENTRETENIMENTO[/B][/COLOR yellow]</description>
@@ -13,6 +13,18 @@
       <credits>A TODOS QUE ME AJUDARAM</credits>
     </channels_info>
 <channels>
+ 
+<channel>
+     <name>[B][I][COLOR lime]<<[COLOR yellow] ADDON VIP [COLOR orangered] PERSONALIZADO [COLOR green]>>[/COLOR][/I][/B]</name>
+  <thumbnail>https://i.imgur.com/FHUsxjL.png</thumbnail>https://i.imgur.com/zJmi0gk.png
+<fanart>https://i.imgur.com/WNNQlOS.jpg</fanart>
+ <genre>[I][COLOR orangered]Addon Personalizado[COLOR lime]Para Assinantes[COLOR yellow] Pikachu Entretenimentos !!![/COLOR][/I]</genre>
+<link>http://ignoreme</link>
+ <info>[I][COLOR orangered]Addon Personalizado[COLOR lime]Para Assinantes[COLOR yellow] Pikachu Entretenimentos !!![/COLOR][/I]</info> 
+   <externallink>https://raw.githubusercontent.com/raulseixas/bakaleech/master/menssagem%20iptv</externallink>
+</channel>
+  </channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
  
 <channel>https://tinyurl.com/yclqz937
      <name>[B][I][COLOR=green]<<[COLOR yellow][COLOR=yellow]PIKACHU  ENTRETENIMENTOS: [COLOR aquamarine]Ola Gabriel![COLOR yellow][COLOR=green]>>[/COLOR][/I][/B]</name>
@@ -35,4 +47,25 @@
    <externallink>https://raw.githubusercontent.com/raulseixas/bakaleech/master/ab1</externallink>
 </channel>
   </channels>
-
+<channel>
+      <name>[B][I][COLOR yellow] BIBLIOTECA [COLOR orangered] VIP PIKACHU [/COLOR][/I][/B]</name>
+<genre>[I][COLOR orangered]Addon Personalizado[COLOR lime]Para Assinantes[COLOR yellow][ Pikachu Entretenimentos !!![/COLOR][/I]</genre>
+  <thumbnail>https://i.imgur.com/FHUsxjL.png</thumbnail>
+<fanart>https://i.imgur.com/WNNQlOS.jpg</fanart>
+<link>http://ignoreme</link>
+ <info>[I][COLOR orangered]Addon Personalizado[COLOR lime]Para Assinantes[COLOR yellow] Pikachu Entretenimentos !!![/COLOR][/I]</info>  
+   <externallink>https://raw.githubusercontent.com/raulseixas/bakaleech/master/biblioteca%20vip</externallink>
+</channel>
+  </channels>
+  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channel>
+      <name>[B][I][COLOR yellow] RÁDIO DIFUSORA [COLOR orangered] VIP PIKACHU [/COLOR][/I][/B]</name>
+<genre>[I][COLOR orangered]Addon Personalizado[COLOR lime]Para Assinantes[COLOR yellow][Pikachu Entretenimentos !!!][/COLOR][/I]</genre>
+  <thumbnail>https://i.imgur.com/FHUsxjL.png</thumbnail>
+<fanart>https://i.imgur.com/WNNQlOS.jpg</fanart>
+<link>http://ignoreme</link>
+ <info>[I][COLOR orangered]Addon Personalizado[COLOR lime]Para Assinantes[COLOR yellow] Pikachu Entretenimentos !!![/COLOR][/I]</info>  
+   <externallink>https://raw.githubusercontent.com/raulseixas/bakaleech/master/r%C3%A1dio%20pikachu</externallink>
+</channel>
+  </channels>
